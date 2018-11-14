@@ -1,0 +1,114 @@
+[
+	{
+		"Id": 1,
+		"Title": "Давай поговорим",
+		"FirstMemberText": "Добрый день!",
+		"SecondMemberText": "Рад приветствовать тебя, дорогой друг!",
+		"Children": [2, 3, 6, 7] 
+	},
+	{
+		"Id": 2,
+		"Title": "Прощание",
+		"FirstMemberText": "Мне надо идти",
+		"SecondMemberText": "Всего хорошего, приходи ещё.",
+		"Children": [] 
+	},
+	{
+		"Id": 3,
+		"Title": "Скидка",
+		"FirstMemberText": "Мог бы я получить скидку пожалуйста?",
+		"SecondMemberText": "Принеси мне Амброзию и я дам теб 20% скидку",
+		"Children": [5] 
+	},
+	{
+		"Id": 4,
+		"Title": "Я Принёс",
+		"FirstMemberText": "Да, вот пожалуйста",
+		"SecondMemberText": "Благодарю",
+		"Children": [2] 
+	},
+	{
+		"Id": 5,
+		"Title": "Пока не принёс",
+		"FirstMemberText": "К сожалениею пока нет.",
+		"SecondMemberText": "Ничего, я подожду",
+		"Children": [2] 
+	},
+	{
+		"Id": 6,
+		"Title": "Спец заказ",
+		"FirstMemberText": "У вас есть возможность заказать особые предметы?",
+		"SecondMemberText": "Только это",
+		"Children": [2] 
+	},
+	{
+		"Id": 7,
+		"Title": "Нужна помощь",
+		"FirstMemberText": "Вы не могли бы мне помочь?",
+		"SecondMemberText": "Чем, я могу быть полезен?",
+		"Children": [2, 8, 12, 17]
+	},
+	{
+		"Id": 8,
+		"Title": "Лысый",
+		"FirstMemberText": "У вас нет чего-то, что может помочь Лысому расчистить дорогу",
+		"SecondMemberText": "Завалялось где-то зелье силы, могу продать за загадку",
+		"Children": [2, 10, 11]
+	},
+	{
+		"Id": 10,
+		"Title": "Отгадать",
+		"FirstMemberText": "Да, давайте загадку",
+		"SecondMemberText": "Что это такое: власть лежит, а вода бежит?",
+		"Children": [2, 13, 14, 15, 16]
+	},
+	{
+		"Id": 11,
+		"Title": "Отложить",
+		"FirstMemberText": "Я пока не готов",
+		"SecondMemberText": "",
+		"Children": [2, 3, 6, 7]
+	},
+	{
+		"Id": 12,
+		"Title": "Никак",
+		"FirstMemberText": "Пока никак",
+		"SecondMemberText": "Странный вы однако, молодой человек",
+		"Children": []
+	},
+	{
+		"Id": 13,
+		"Title": "Пляж",
+		"FirstMemberText": "Это наш король лежит на пляже",
+		"SecondMemberText": "Хах, не совсем. Ну ладно, так и быть, можешь купить зелье.",
+		"Children": []
+	},
+	{
+		"Id": 14,
+		"Title": "Клизма",
+		"FirstMemberText": "Нашему королю ставят клизму",
+		"SecondMemberText": "Правильно, только тссс... Можешь купить зелье.",
+		"Children": []
+	},
+  {
+    "Id": 15,
+    "Title": "Возмездие",
+    "FirstMemberText": "Король в канаве",
+    "SecondMemberText": "Хах, не совсем. Ну ладно, так и быть, можешь купить зелье.",
+    "Children": []
+  },
+  {
+    "Id": 16,
+    "Title": "Обыденность",
+    "FirstMemberText": "Наша жизнь",
+    "SecondMemberText": "Хах, не совсем. Ну ладно, так и быть, можешь купить зелье.",
+    "Children": []
+  },
+  {
+    "Id": 17,
+    "Title": "Лес",
+    "FirstMemberText": "У вас случайно нет карты леса?",
+    "SecondMemberText": "Есть одна, но просто так я ее отдать не могу. Приготовька мне влюбитель и сможешь ее купить.",
+    "Children": []
+  }
+]

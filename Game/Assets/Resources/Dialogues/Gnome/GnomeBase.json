@@ -1,0 +1,58 @@
+[
+	{
+		"Id": 1,
+		"Title": "Давай поговорим",
+		"FirstMemberText": "Добрый день!",
+		"SecondMemberText": "Чего тебе надо!",
+		"Children": [2, 3, 8] 
+	},
+	{
+		"Id": 2,
+		"Title": "Прощание",
+		"FirstMemberText": "Мне надо идти",
+		"SecondMemberText": "Провалий, и не отвлекай меня больше.",
+		"Children": [] 
+	},
+	{
+		"Id": 3,
+		"Title": "Что, вы делаете?",
+		"FirstMemberText": "Хотел, бы узнать что вы делаете?",
+		"SecondMemberText": "А ты сам не видишь! Я пытаюсь расчистиь путь и убрать этот камень.",
+		"Children": [2, 4, 3] 
+	},
+	{
+		"Id": 4,
+		"Title": "Не тяжело?",
+		"FirstMemberText": "Вам не тяжело?",
+		"SecondMemberText": "А ты как думаешь?! Я работаю уже пятый день, и никакого результата",
+		"Children": [2, 5, 4, 3] 
+	},
+	{
+		"Id": 5,
+		"Title": "Помочь?",
+		"FirstMemberText": "Я могу вам как-то помочь?",
+		"SecondMemberText": "Ты себя видел!. Эх если бы было что-то что могло сделать меня сильнее",
+		"Children": [2, 7] 
+	},
+	{
+		"Id": 6,
+		"Title": "Передать зелье",
+		"FirstMemberText": "Вот, это должно помочь",
+		"SecondMemberText": "Ща попробуем",
+		"Children": [2] 
+	},
+  {
+    "Id": 7,
+    "Title": "Пообещать помощь",
+    "FirstMemberText": "Я обязательно вам помогу",
+    "SecondMemberText": "Ох, снова пустые обещания!",
+    "Children": [ 2 ]
+  },
+  {
+		"Id": 8,
+		"Title": "Лес",
+		"FirstMemberText": "Вы не знаете где взять карту леса?",
+		"SecondMemberText": "Она должна быть у лесничего!",
+		"Children": [2, 3, 8] 
+	}
+]

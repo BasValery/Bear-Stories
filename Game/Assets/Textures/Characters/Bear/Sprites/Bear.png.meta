@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: ff5bc4ff4a74f4b4ea64be997f62050b
+timeCreated: 1519916057
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bear_Head
+    21300002: Bear_Eyes1
+    21300004: Bear_Eyes2
+    21300006: Bear_Eyes3
+    21300008: Bear_Mouth1
+    21300010: Bear_Mouth2
+    21300012: Bear_Mouth3
+    21300014: Bear_Mouth4
+    21300016: Bear_Right_Arm
+    21300018: Bear_Left_Arm
+    21300020: Bear_Body
+    21300022: Bear_Pants
+    21300024: Bear_Right_Leg
+    21300026: Bear_Left_Leg
+    21300028: Bear_Shadow
+    21300030: Bear
+    21300032: Bear_Head
+    21300034: Bear_2
+    21300036: Bear_3
+    21300038: Bear_Big_Mouth
+    21300040: Bear_Small_Moth
+    21300042: Bear_6
+    21300044: Bear_7
+    21300046: Bear_Middle_Moth
+    21300048: Bear_9
+    21300050: Bear_10
+    21300052: Bear_11
+    21300054: Bear_12
+    21300056: Bear_Right_Hand
+    21300058: Bear_Left_hand
+    21300060: Bear_0
+    21300062: Bear_Closed_Mouth
+    21300064: Bear_Big_Eyes
+    21300066: Bear_Middle_Eyes
+    21300068: Bear_Small_Eyes
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1971
+        width: 1593
+        height: 2775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Head
+      rect:
+        serializedVersion: 2
+        x: 2167.7566
+        y: 3831.2766
+        width: 847.89453
+        height: 927.1902
+      alignment: 9
+      pivot: {x: 0.9829135, y: 0.014724163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_2
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 4596
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_3
+      rect:
+        serializedVersion: 2
+        x: 3814
+        y: 4558
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Big_Mouth
+      rect:
+        serializedVersion: 2
+        x: 4221.4697
+        y: 4482.078
+        width: 368.70654
+        height: 219.87988
+      alignment: 9
+      pivot: {x: 0.50183487, y: 0.49082196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Small_Moth
+      rect:
+        serializedVersion: 2
+        x: 4840.1636
+        y: 4511.2
+        width: 105.15527
+        height: 94.58203
+      alignment: 9
+      pivot: {x: 0.4881964, y: 0.47894728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_6
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 4265
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_7
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 4225
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Middle_Moth
+      rect:
+        serializedVersion: 2
+        x: 4327.366
+        y: 4158.686
+        width: 163.30566
+        height: 142.16016
+      alignment: 9
+      pivot: {x: 0.4937599, y: 0.49461094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_9
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4231
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_10
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 4212
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_11
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 3980
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_12
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3942
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Right_Hand
+      rect:
+        serializedVersion: 2
+        x: 1982.3579
+        y: 1958
+        width: 517.7312
+        height: 1316.0046
+      alignment: 9
+      pivot: {x: 0.9863074, y: 0.99771684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Body
+      rect:
+        serializedVersion: 2
+        x: 2708.5498
+        y: 1725.1951
+        width: 1355.0051
+        height: 1449.1064
+      alignment: 9
+      pivot: {x: 0.5088174, y: 0.4974134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Left_hand
+      rect:
+        serializedVersion: 2
+        x: 4583.566
+        y: 1927.8562
+        width: 538.64014
+        height: 1352.7454
+      alignment: 9
+      pivot: {x: 0.010087614, y: 0.9995553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Shadow
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 683
+        width: 1361
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Pants
+      rect:
+        serializedVersion: 2
+        x: 2706.6685
+        y: 719.59064
+        width: 1260.2336
+        height: 686.65924
+      alignment: 9
+      pivot: {x: 0.4993769, y: 0.49793166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Right_Leg
+      rect:
+        serializedVersion: 2
+        x: 4221.846
+        y: 891.51764
+        width: 378.9419
+        height: 508.9676
+      alignment: 9
+      pivot: {x: 0.49652287, y: 0.9931524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Left_Leg
+      rect:
+        serializedVersion: 2
+        x: 4844.0107
+        y: 879.08875
+        width: 352.58398
+        height: 525.3353
+      alignment: 9
+      pivot: {x: 0.4934676, y: 0.9858679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Closed_Mouth
+      rect:
+        serializedVersion: 2
+        x: 4863.8545
+        y: 4204
+        width: 82.98242
+        height: 77.00049
+      alignment: 9
+      pivot: {x: 0.5139043, y: 0.49999684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Big_Eyes
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 4558
+        width: 282
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Middle_Eyes
+      rect:
+        serializedVersion: 2
+        x: 3593.1584
+        y: 4216.6416
+        width: 287.53613
+        height: 110.441895
+      alignment: 9
+      pivot: {x: 0.47764972, y: 0.58726263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bear_Small_Eyes
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 3934
+        width: 264
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99621904686894
+  assetBundleName: 
+  assetBundleVariant: 

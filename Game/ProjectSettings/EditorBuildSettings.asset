@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Preload.unity
+    guid: 2c30cd4af21b58e4c89cca0ea4b248f3
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 87a7031e1ab16cb45b3ae6ec7106caaf
+  - enabled: 1
+    path: Assets/Scenes/MoviePlay.unity
+    guid: a506f894aaba0e24aac4160b2bbf5e8b
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 86daa12a36d6a1946884bc014f3fa3f7
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 09ffcb6d535ac1946a34469a4768e0d3
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 9b791901a21aa1d4b8bdb1efc0bb2488
+  - enabled: 1
+    path: Assets/Scenes/InventoryScene.unity
+    guid: 42f3ae803100ec7419d6b5f71b633b7f
+  - enabled: 1
+    path: Assets/Scenes/LairInside.unity
+    guid: 85db6a35d661b694cb6282b5ea568f14
+  - enabled: 1
+    path: Assets/Scenes/Development.unity
+    guid: a5dd9d8e02a948c4189350f5917ab2fd
+  - enabled: 1
+    path: Assets/Scenes/Boiling.unity
+    guid: a40d296c0bfe46249aaf77153cdd3bb9
+  - enabled: 1
+    path: Assets/Scenes/MiniGameKnife.unity
+    guid: fb745b656f34e7744bd1a0298b529c3e
+  - enabled: 1
+    path: Assets/Scenes/Strew.unity
+    guid: c57468888a16f424db37618e3d9371a1

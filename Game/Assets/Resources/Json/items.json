@@ -1,0 +1,184 @@
+﻿[
+  {
+    "Id": 0,
+    "Title": "Красный гном",
+    "Slug": "red_dwarf",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 1,
+    "Title": "Амброзия",
+    "Slug": "ambrosia",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 2,
+    "Title": "Пухлый кролик",
+    "Slug": "сhubby_rabbit",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 3,
+    "Title": "Корень полдника",
+    "Slug": "root_snack",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 4,
+    "Title": "Семейный плод",
+    "Slug": "family_raft",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 5,
+    "Title": "Вода",
+    "Slug": "water",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": true,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 6,
+    "Title": "Амброзия нарезанная",
+    "Slug": "ambrosia_particle",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": true,
+    "Quality": 100
+  },
+  {
+    "Id": 7,
+    "Title": "Потухатель",
+    "Slug": "fire_of",
+    "Potion": true,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 8,
+    "Title": "Усилитель",
+    "Slug": "strenght",
+    "Potion": true,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 9,
+    "Title": "Влюбитель",
+    "Slug": "love",
+    "Potion": true,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 10,
+    "Title": "Красный гном нарезанный",
+    "Slug": "dworf_particle",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": true,
+    "Quality": 100
+  },
+  {
+    "Id": 12,
+    "Title": "Гриб нарезанный",
+    "Slug": "mushroom_particle",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": true,
+    "Quality": 100
+  },
+  {
+    "Id": 13,
+    "Title": "Кирпич",
+    "Slug": "brick",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 14,
+    "Title": "Фрагмент \"Лес\"",
+    "Slug": "forest_map",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 15,
+    "Title": "Говоритель",
+    "Slug": "talk",
+    "Potion": true,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+  },
+  {
+    "Id": 16,
+    "Title": "Пухлый кролик нарезанный",
+    "Slug": "сhubby_rabbit_particle",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": false,
+    "Cuttable": false,
+    "Strewable": true,
+    "Quality": 100
+  }
+]

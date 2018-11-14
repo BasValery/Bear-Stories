@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: aa4db4c12f329bb49b6dcaf7d77494f7
+timeCreated: 1522914996
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Citizen
+    21300002: CitizenBody
+    21300004: CitizenLeftHand
+    21300006: CitizenHeadExample
+    21300008: CitizenHead
+    21300010: CitizenRightHand
+    21300012: CitizenLeftEyeeyebrow
+    21300014: CitizenRigthEyebrow
+    21300016: CitizenLeftEye
+    21300018: CitizenSmallEye
+    21300020: CitizenMustache
+    21300022: CitizenMouth1
+    21300024: CitizenMouth2
+    21300026: CitizenMouth3
+    21300028: CitizenShadow
+    21300030: CitizenLeftLeg
+    21300032: CitizenRightLeg
+    21300034: CitizenRightEye
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Citizen
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35.999985
+        width: 209
+        height: 486
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenBody
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 240
+        width: 127
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenLeftHand
+      rect:
+        serializedVersion: 2
+        x: 501.49997
+        y: 206
+        width: 68.00003
+        height: 225
+      alignment: 9
+      pivot: {x: 0.87500006, y: 0.96888894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenHeadExample
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 412
+        width: 91
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenHead
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 410
+        width: 95
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenRightHand
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 225
+        width: 73
+        height: 208
+      alignment: 9
+      pivot: {x: 0.09589041, y: 0.9663462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenLeftEyeeyebrow
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 366.99997
+        width: 30
+        height: 19.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenRigthEyebrow
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 366.99997
+        width: 26
+        height: 20.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenLeftEye
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 335
+        width: 17
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenSmallEye
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 337.99997
+        width: 17
+        height: 16.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenMustache
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 296
+        width: 56
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenMouth1
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 303
+        width: 22
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenMouth2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 303
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenMouth3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 303
+        width: 24
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenShadow
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 34
+        width: 209.00003
+        height: 51
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenLeftLeg
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 45
+        width: 74
+        height: 219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenRightLeg
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 50
+        width: 71
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CitizenRightEye
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 334
+        width: 19
+        height: 21.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99818074699921
+  assetBundleName: 
+  assetBundleVariant: 

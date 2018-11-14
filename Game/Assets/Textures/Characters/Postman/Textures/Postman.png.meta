@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: 4756389b060775b4f8861d2cd6c13bcc
+timeCreated: 1525961782
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PostmanBody
+    21300002: PostmanLeftArm
+    21300004: PostmanRightArm
+    21300006: PostmanHead
+    21300008: PostmanExample
+    21300010: PostmanLeftLeg
+    21300012: PostmanLeftyEyebrow
+    21300014: PostmanLeftyRightbrow
+    21300016: PostmanRightLeg
+    21300018: PostmanLeftEye
+    21300020: PostmanRightEye
+    21300022: Postman_11
+    21300024: Postman_12
+    21300026: PostmanBag
+    21300028: PostmanPigHead
+    21300030: PostmanPigBody
+    21300032: PostmanForeLeftPaw
+    21300034: PostmanHindRightPaw
+    21300036: PostmanHindLeftPaw
+    21300038: PostmanForeRightPaw
+    21300040: PostmanShadow
+    21300042: PostmanMouth1
+    21300044: PostmanMouth2
+    21300046: PostmanMouth3
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PostmanBody
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 586
+        width: 115
+        height: 169
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanLeftArm
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 652
+        width: 90
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanRightArm
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 651
+        width: 100
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5051546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanHead
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 645
+        width: 104
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5042373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanExample
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 300
+        width: 476
+        height: 482
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanLeftLeg
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 529
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanLeftyEyebrow
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 627
+        width: 25
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanLeftyRightbrow
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 627
+        width: 25.999939
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5000012, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanRightLeg
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 532
+        width: 82
+        height: 100
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanLeftEye
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 619
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanRightEye
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 619
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Postman_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 592
+        width: 16
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Postman_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 592
+        width: 15
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanBag
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 300
+        width: 151
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanPigHead
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 309
+        width: 213
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanPigBody
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69.49999
+        width: 374
+        height: 229
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49344984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanForeLeftPaw
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 112.00001
+        width: 112
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanHindRightPaw
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 112.00001
+        width: 112
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanHindLeftPaw
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 116.49999
+        width: 101
+        height: 155
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49032262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanForeRightPaw
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 118
+        width: 102
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5032467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanShadow
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 384
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanMouth1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 591
+        width: 40
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanMouth2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 566
+        width: 26
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PostmanMouth3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 547
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 100009715678379
+  assetBundleName: 
+  assetBundleVariant: 

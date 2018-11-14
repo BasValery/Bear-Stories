@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Title": "Привет",
+    "FirstMemberText": "Кря",
+    "SecondMemberText": "Добрый день",
+    "Children": [ 2, 3, 4 ]
+  },
+  {
+    "Id": 2,
+    "Title": "Пока",
+    "FirstMemberText": "Кря",
+    "SecondMemberText": "Мне надо идти",
+    "Children": []
+  },
+  {
+    "Id": 3,
+    "Title": "Помощь",
+    "FirstMemberText": "Кря кря",
+    "SecondMemberText": "Вы не подскажите...",
+    "Children": [ 2, 3, 4 ]
+  },
+  {
+    "Id": 4,
+    "Title": "Разузнать",
+    "FirstMemberText": "Кря",
+    "SecondMemberText": "Что ты тут делаешь?",
+    "Children": [ 2, 3, 4 ]
+  },
+  {
+    "Id": 5,
+    "Title": "Привет",
+    "FirstMemberText": "Иди гуляй мальчик",
+    "SecondMemberText": "Добрый день",
+    "Children": [ 8, 6, 7]
+  },
+  {
+    "Id": 6,
+    "Title": "Помощь",
+    "FirstMemberText": "Да запросто!",
+    "SecondMemberText": "Вы не подскажите как пройти на турнир?",
+    "Children": []
+  },
+  {
+    "Id": 7,
+    "Title": "Разузнать",
+    "FirstMemberText": "Что-то ты много вопросов задаешь!",
+    "SecondMemberText": "Что ты тут делаешь?",
+    "Children": [ 8, 6, 7]
+  },
+  {
+    "Id": 8,
+    "Title": "Пока",
+    "FirstMemberText": "Ну давай!",
+    "SecondMemberText": "Мне надо идти",
+    "Children": []
+  }
+]

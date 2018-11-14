@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 22db625de5b85964c8c061d2525b9145
+timeCreated: 1522914995
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GnomeExample
+    21300002: "\u0413\u043D\u043E\u043C_1"
+    21300004: GnomeHead
+    21300006: GnomeEyebrowLeft
+    21300008: GnomeEyebrowRight
+    21300010: GnomeEye
+    21300012: GnomeShit1
+    21300014: GnomeShit2
+    21300016: GnomeArmLeft
+    21300018: GnomeBody
+    21300020: GnomeArmRight
+    21300022: GnomeLegLeft
+    21300024: GnomeLegRight
+    21300026: GnomeBeard
+    21300028: GnomeMustache
+    21300030: GnomeMouth1
+    21300032: GnomeMouth2
+    21300034: GnomeMouth3
+    21300036: GnomeShodow
+    21300038: GnomeHammer
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GnomeExample
+      rect:
+        serializedVersion: 2
+        x: 58.000004
+        y: 38
+        width: 238
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u0413\u043D\u043E\u043C_1"
+      rect:
+        serializedVersion: 2
+        x: 669.00006
+        y: 276
+        width: 132.99988
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeHead
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 274
+        width: 136
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5036765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeEyebrowLeft
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 377
+        width: 33
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeEyebrowRight
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 377
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeEye
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 348
+        width: 19
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeShit1
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 348
+        width: 19
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeShit2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 348
+        width: 18
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeArmLeft
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 165
+        width: 70
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeBody
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 180.00002
+        width: 149
+        height: 162.99998
+      alignment: 9
+      pivot: {x: 0.5033557, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeArmRight
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 183
+        width: 90
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeLegLeft
+      rect:
+        serializedVersion: 2
+        x: 692.4999
+        y: 49
+        width: 76
+        height: 201
+      alignment: 9
+      pivot: {x: 0.48026475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeLegRight
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 55.5
+        width: 88
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49175826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeBeard
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 175
+        width: 61.00006
+        height: 67
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeMustache
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 196
+        width: 100
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeMouth1
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 150
+        width: 22
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeMouth2
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 150
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeMouth3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 150
+        width: 24
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeShodow
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 237
+        height: 59
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GnomeHammer
+      rect:
+        serializedVersion: 2
+        x: 976.00006
+        y: 42.000004
+        width: 87.99994
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.5058139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99818618635816
+  assetBundleName: 
+  assetBundleVariant: 

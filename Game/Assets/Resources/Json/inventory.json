@@ -1,0 +1,38 @@
+﻿[
+  {
+    "Id": 5,
+    "Title": "Вода",
+    "Slug": "water",
+    "Potion": false,
+    "Ingredient": false,
+    "Boilable": true,
+    "Cuttable": false,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 1,
+    "Title": "Амброзия",
+    "Slug": "ambrosia",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  },
+  {
+    "Id": 1,
+    "Title": "Амброзия",
+    "Slug": "ambrosia",
+    "Potion": false,
+    "Ingredient": true,
+    "Boilable": false,
+    "Cuttable": true,
+    "Strewable": false,
+    "Quality": 100
+
+  }
+]

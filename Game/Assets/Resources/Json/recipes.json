@@ -1,0 +1,26 @@
+[
+  {
+    "IdPotion": 7,
+    "Temp": 100.0,
+    "IdLiquid": 5,
+    "IdIngredient": 6
+  },
+  {
+    "IdPotion": 8,
+    "Temp": 80.0,
+    "IdLiquid": 5,
+    "IdIngredient": 12
+  },
+  {
+    "IdPotion": 9,
+    "Temp": 130.0,
+    "IdLiquid": 5,
+    "IdIngredient": 16
+  },
+  {
+    "IdPotion": 15,
+    "Temp": 90.0,
+    "IdLiquid": 5,
+    "IdIngredient": 10
+  }
+]
